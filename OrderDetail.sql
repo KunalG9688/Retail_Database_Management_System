@@ -1,0 +1,34 @@
+-- Insert Data into OrderDetails Table
+INSERT INTO OrderDetails (OrderID, ProductID, Quantity, Price) VALUES
+(1, 1, 1, 799.99),  -- Laptop for John Doe
+(1, 2, 1, 599.99),  -- Smartphone for John Doe
+(2, 3, 1, 299.99),  -- Tablet for Jane Smith
+(3, 6, 1, 999.99),  -- Desktop for Robert Johnson
+(4, 4, 2, 199.99),  -- Headphones for Emily Davis
+(5, 7, 1, 499.99),  -- Camera for Michael Brown
+(5, 5, 1, 449.99),  -- Smartwatch for Michael Brown
+(6, 5, 1, 149.99),  -- Smartwatch for Jessica Wilson
+(7, 1, 1, 799.99),  -- Laptop for Daniel Moore
+(7, 8, 1, 349.99),  -- Printer for Daniel Moore
+(8, 2, 2, 299.99),  -- Smartphone for Sophia Taylor
+(9, 6, 1, 999.99),  -- Desktop for David Anderson
+(9, 9, 1, 299.99),  -- Monitor for David Anderson
+(10, 3, 1, 299.99), -- Tablet for Olivia Thomas
+(11, 7, 1, 499.99), -- Camera for William Jackson
+(11, 8, 1, 379.99), -- Printer for William Jackson
+(12, 1, 2, 799.99), -- Laptop for Ava White
+(13, 10, 5, 89.99), -- Keyboard for James Harris
+(14, 3, 1, 299.99), -- Tablet for Mia Martin
+(15, 9, 4, 299.99), -- Monitor for Benjamin Martinez
+(16, 6, 1, 999.99), -- Desktop for Charlotte Robinson
+(16, 2, 1, 599.99), -- Smartphone for Charlotte Robinson
+(17, 10, 3, 89.99), -- Keyboard for Lucas Clark
+(18, 4, 3, 199.99), -- Headphones for Amelia Lewis
+(19, 5, 1, 149.99), -- Smartwatch for Mason Walker
+(20, 7, 2, 599.99), -- Camera for Harper Hall
+(21, 8, 2, 399.99), -- Printer for Ethan Allen
+(22, 2, 1, 479.99), -- Smartphone for Isabella Young
+(23, 6, 1, 999.99), -- Desktop for Alexander King
+(23, 9, 1, 349.99), -- Monitor for Alexander King
+(24, 10, 2, 89.99), -- Keyboard for Avery Wright
+(25, 4, 2, 199.99); -- Headphones for Sophia Lee
